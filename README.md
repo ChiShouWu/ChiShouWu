@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gamify-Kanban](https://github.com/GamifyKanban/Description)
 
-- 🌱 I’m currently learning **Flutter, SQL, System Design**
+- 🌱 I’m currently learning **Golang, SQL, System Design**
 
 - 📫 How to reach me **a19850702a@gmail.com**
 
